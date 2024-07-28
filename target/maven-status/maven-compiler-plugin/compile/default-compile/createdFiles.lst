@@ -1,0 +1,9 @@
+interior\service\IEmail.class
+interior\entities\Email.class
+config\CORSConfiguration$1.class
+interior\repository\EmailRepository.class
+interior\InteriorApplication.class
+config\CORSConfiguration.class
+interior\service\EmailService.class
+interior\controller\EmailController.class
+interior\dto\EmailDTO.class
